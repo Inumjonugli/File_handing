@@ -1,0 +1,4 @@
+1,Ali,Mathematics,85
+2,Vali,Physics,90
+3,Hasan,Computer Science,95
+4,Akmal,Chemistry,80
